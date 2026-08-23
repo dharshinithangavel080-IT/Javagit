@@ -1,7 +1,7 @@
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class OutputStreamExample {
+public class OutputStream{
     public static void main(String[] args) {
         try {
             FileOutputStream output = new FileOutputStream("output.txt");
